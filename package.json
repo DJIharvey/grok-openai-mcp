@@ -1,0 +1,12 @@
+{
+  "name": "grok-openai-mcp",
+  "version": "1.0.0",
+  "description": "MCP server connecting Grok to OpenAI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
