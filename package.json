@@ -1,12 +1,12 @@
 {
   "name": "grok-openai-mcp",
-  "version": "1.0.0",
-  "description": "MCP server connecting Grok to OpenAI",
+  "version": "1.1.0",
+  "description": "Remote MCP server that lets Grok call ChatGPT through the OpenAI API",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "engines": {
-    "node": "22.x"
+    "node": ">=18"
   }
 }
